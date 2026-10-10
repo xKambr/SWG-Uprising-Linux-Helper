@@ -1,4 +1,0 @@
-git clone https://github.com/YOUR-USERNAME/swg-uprising-linux.git
-cd swg-uprising-linux
-chmod +x setup_uprising.sh swg_setup.sh
-./setup_uprising.sh
